@@ -1,3 +1,4 @@
+![]([]https://github.com/thiagomms/dash-React1.0/blob/main/dash.gif)
 # Dash2 – Dashboard Comercial
 
 ## Visão Geral
